@@ -9,14 +9,14 @@ public class TehtavaGitTulostin {
 		System.out.println(tekija); 
 
 		//
-		double luku1 =5.0; 
+		double luku1 =6.0; 
 		double luku2 =7.0;
 		double tulo1 =luku1 * luku2;
 		double summa = luku1 + luku2;
 		double erotus = luku1 - luku2;
 		double jako = luku1 / luku2;
 		
-		// homma toimi :) luku1 eli 5 tulostui omana muuttujan arvona 
+		// homma toimi :) luku1 eli 6 tulostui omana muuttujan arvona 
 
 		System.out.println("Luku1-muuttujan arvo on " + luku1); 
 
